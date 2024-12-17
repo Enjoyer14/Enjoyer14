@@ -1,10 +1,10 @@
 <!-- Приветствие -->
-<h1 align="center">Привет, я <a href="https://github.com/вашеимя">Ваше Имя</a> 👋</h1>
-<h3 align="center">Разработчик | Технологический энтузиаст | Люблю C++ и Open Source</h3>
+<h1 align="center">Привет, я <a href="https://github.com/вашеимя">Enjoyer</a> 👋</h1>
+<h3 align="center">Разработчик | Технологический энтузиаст |  не люблю C++ и Open Source</h3>
 
 <!-- О себе -->
 <p align="center">
-  🚀 Разрабатываю проекты с использованием C++, Python, PostgreSQL и Kafka. <br />
+  🚀 Разрабатываю проекты с использованием Java, PostgreSQL. <br />
   🌱 Изучаю новые технологии и совершенствую навыки в области микросервисов и контейнеризации. <br />
   💡 Люблю решать сложные задачи и делиться опытом с сообществом.
 </p>
@@ -23,12 +23,9 @@
 ### 🚀 **Навыки и технологии**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java" />
+  </a>
 </p>
 
 ---
