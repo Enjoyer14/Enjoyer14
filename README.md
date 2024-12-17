@@ -4,9 +4,9 @@
 
 <!-- О себе -->
 <p align="center">
-  🚀 Разрабатываю проекты с использованием Java, PostgreSQL. <br />
+  🚀 Разрабатываю проекты с использованием Java, PostgreSQL, Hibernate, Spring. <br />
   🌱 Изучаю новые технологии и совершенствую навыки в области микросервисов и контейнеризации. <br />
-  💡 Люблю решать сложные задачи и делиться опытом с сообществом.
+  💡 Люблю решать сложные задачи.
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,docker,java,cpp,spring,hibernate" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,java,postgres,spring,hibernate,docker" />
   </a>
 </p>
 
@@ -24,8 +24,8 @@
 ### 📊 **Статистика профиля**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш_никнейм&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваш_никнейм&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Enjoyer14&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enjoyer14&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ **Проекты**
