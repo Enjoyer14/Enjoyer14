@@ -4,7 +4,7 @@
 
 <!-- О себе -->
 <p align="center">
-  🚀 Разрабатываю проекты с использованием Java, PostgreSQL, Hibernate, Spring. <br />
+  🚀 Разрабатываю проекты с использованием Python, PostgreSQL, Flask, Spring. <br />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,java,postgres,hibernate" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,py,postgres,flask" />
   </a>
 </p>
 
