@@ -1,6 +1,6 @@
 <!-- Приветствие -->
-<h1 align="center">Привет, я <a href="https://github.com/Enjoyer14">Enjoyer</a> 👋</h1>
-<h3 align="center">Intern</h3>
+<h1 align="center">Здравствуйте</a> 👋</h1>
+<h3 align="center">Должность - Intern</h3>
 
 <!-- О себе -->
 <p align="center">
