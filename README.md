@@ -4,7 +4,7 @@
 
 <!-- О себе -->
 <p align="center">
-  🚀 Разрабатываю проекты с использованием Python, PostgreSQL, Flask, RabbitMQ <br />
+  🚀 Разрабатываю проекты на Java, Spring, PostgreSQL, RabbitMQ <br />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,py,postgres,flask,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,java,maven,spring,postgres,rabbitmq,docker,linux" />
   </a>
 </p>
 
