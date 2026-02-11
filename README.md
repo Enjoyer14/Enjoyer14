@@ -19,14 +19,14 @@
 
 ---
 
-### 📊 **Статистика профиля**
+### **Статистика профиля**
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Enjoyer14&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enjoyer14&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🛠️ **Проекты**
+### **Проекты**
 
  - [**Проект 1**](https://github.com/Enjoyer14/AlgorythmTrainerV2) - Algorythm Trainer
  - [**Проект 2**](https://github.com/Enjoyer14/managmentApp) - ManagmentApp
@@ -45,7 +45,5 @@
 </p>
 
 ---
-
-### **Любимая цитата**
 
 > "Безграмотными в 21 веке будут не те, кто не умеет читать и писать, а те, кто не умеет учиться и переучиваться." — *Элвин Тоффлер*
