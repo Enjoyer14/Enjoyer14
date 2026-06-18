@@ -28,7 +28,7 @@
 
 ### **Проекты**
 
- - [**Проект 1**](https://github.com/Enjoyer14/AlgorythmTrainerV2) - Algorythm Trainer
+ - [**Проект 1**](https://github.com/Enjoyer14/AlgorythmTrainer) - Algorythm Trainer
  - [**Проект 2**](https://github.com/Enjoyer14/managmentApp) - ManagmentApp
 
 ---
